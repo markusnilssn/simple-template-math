@@ -1,32 +1,35 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+# Compiled object files
 *.o
 *.obj
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
+# Compiled dynamic-link library (DLL) files
 *.dll
 
-# Fortran module files
-*.mod
-*.smod
+# Compiled executables
+*.exe
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+# Compiled static library files
 *.lib
 
-# Executables
-*.exe
-*.out
-*.app
+# Compiled shared library files
+*.so
+*.dylib
+
+# Visual Studio specific files and folders
+.vs/
+*.sdf
+*.opensdf
+*.suo
+*.vcxproj.user
+*.vcproj.*
+
+# C++ specific files and folders
+Debug/
+Release/
+x64/
+x86/
+*.pdb
+
+# Build output files
+bin/
+obj/
