@@ -33,3 +33,9 @@ x86/
 # Build output files
 bin/
 obj/
+
+
+build/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
