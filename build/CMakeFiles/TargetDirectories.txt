@@ -1,0 +1,3 @@
+/Users/markus/Documents/GitHub/simple-template-math/build/CMakeFiles/Application.dir
+/Users/markus/Documents/GitHub/simple-template-math/build/CMakeFiles/edit_cache.dir
+/Users/markus/Documents/GitHub/simple-template-math/build/CMakeFiles/rebuild_cache.dir
