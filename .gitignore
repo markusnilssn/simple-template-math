@@ -1,41 +1,6 @@
-# Compiled object files
-*.o
-*.obj
-
-# Compiled dynamic-link library (DLL) files
-*.dll
-
-# Compiled executables
-*.exe
-
-# Compiled static library files
-*.lib
-
-# Compiled shared library files
-*.so
-*.dylib
-
-# Visual Studio specific files and folders
-.vs/
-*.sdf
-*.opensdf
-*.suo
-*.vcxproj.user
-*.vcproj.*
-
-# C++ specific files and folders
-Debug/
-Release/
-x64/
-x86/
-*.pdb
-
-# Build output files
-bin/
-obj/
-
-
-build/
-CMakeFiles/
-CMakeCache.txt
-compile_commands.json
+build
+out
+.cache
+.idea
+.vs
+.vscode
