@@ -17,10 +17,11 @@
 #include "Vector3.hpp"
 #include "Vector4.hpp"
 
+#include <iostream>
+
 int main() 
 { 
     using namespace stm;
 
-    
     return 0; 
 }
