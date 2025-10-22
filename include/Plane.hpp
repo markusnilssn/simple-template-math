@@ -1,7 +1,6 @@
 #pragma once
-#include "Vector3.h"
-#include "Math.h"
-
+#include "Vector3.hpp"
+#include "Math.hpp"
 
 namespace stm
 {
